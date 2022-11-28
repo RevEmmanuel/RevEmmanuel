@@ -1,6 +1,8 @@
 👋 Hi, I'm Adeola Adekunle, a Software Engineer Trainee
 
- 🌱 I’m currently learning Java, Python, HTML and CSS, Javascript, Kotlin and Data Science.
+
+🌱 I’m currently learning Java, Python, HTML and CSS, Javascript, Kotlin and Data Science.
+ 
  💞️ I’m looking to collaborate on any project.
  📫 How to reach me:
  Instagram: @deolaaxo
