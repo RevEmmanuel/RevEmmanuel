@@ -1,4 +1,5 @@
-👋 Hi, I'm Adeola Adekunle, a Software Engineer Trainee at Semicolon Africa
+# 👋 Hi, I'm Adeola Adekunle
+A Software Engineer Trainee at Semicolon Africa 
 __________________________________________________________________________________________________________________________________________________________
 
 🌱 I’m currently learning Java, Python, HTML and CSS, Javascript, Kotlin and Data Science.
