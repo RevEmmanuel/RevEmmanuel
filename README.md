@@ -9,6 +9,7 @@ ________________________________________________________________________________
  📫 How to reach me:
  - Instagram: @deolaaxo
  - Twitter: @Adeola_Ade1
+ - E-mail address: adeolaae1@gmail.com
 
 <!---
 RevEmmanuel/RevEmmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
