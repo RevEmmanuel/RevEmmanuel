@@ -3,6 +3,7 @@ A Software Engineer Trainee at Semicolon Africa
 __________________________________________________________________________________________________________________________________________________________
 
 🌱 I’m currently learning Java, Python, HTML and CSS, Javascript, Kotlin and Data Science.
+- I am also learning SpringBoot and Django frameworks.
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
  __________________________________________________________________________________________________________________________________________________________
