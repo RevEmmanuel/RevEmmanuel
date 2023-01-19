@@ -8,10 +8,11 @@ ________________________________________________________________________________
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
  __________________________________________________________________________________________________________________________________________________________
  📫 How to reach me:
- - Instagram: @deolaaxo
+ - LinkedIn: www.linkedin.com/in/adeola-adekunle-emmanuel
  - Twitter: @Adeola_Ade1
+ - Instagram: @deolaaxo
  - E-mail address: adeolaae1@gmail.com
-
+ 
 <!---
 RevEmmanuel/RevEmmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
