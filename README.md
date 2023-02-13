@@ -15,6 +15,10 @@ ________________________________________________________________________________
  - Twitter: [@Adeola_Ade1](https://twitter.com/Adeola_Ade1)
  - Instagram: [@deolaaxo](https://www.instagram.com/deolaaxo/)
  - E-mail address: [adeolaae1@gmail.com](adeolaae1@gmail.com)
+ - Visitors: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ 
+ ![Adeola Emmanuel's Github stats](https://github-readme-stats.vercel.app/api?username=RevEmmanuel&theme=highcontrast&show_icons=true&count_private=true)
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevEmmanuel&layout=compact)
  
 <!---
 RevEmmanuel/RevEmmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
