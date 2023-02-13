@@ -6,7 +6,7 @@ ________________________________________________________________________________
 \
 `Java` `Python` `HTML and CSS` `Javascript` `Kotlin` and `Data Science`\
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,postman,react)](https://skillicons.dev)
 
 
 - I am also learning SpringBoot and Django frameworks, React and Node.js
