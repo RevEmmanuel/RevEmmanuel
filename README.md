@@ -23,7 +23,7 @@ ________________________________________________________________________________
  - Twitter: [@Adeola_Ade1](https://twitter.com/Adeola_Ade1)
  - Instagram: [@deolaaxo](https://www.instagram.com/deolaaxo/)
  - E-mail address: [adeolaae1@gmail.com](adeolaae1@gmail.com)
- - Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=RevEmmanuel&color=brightgreen&style=flat-square)
+
  
  ![Adeola Emmanuel's Github stats](https://github-readme-stats.vercel.app/api?username=RevEmmanuel&theme=highcontrast&show_icons=true&count_private=true)
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevEmmanuel&layout=compact)
