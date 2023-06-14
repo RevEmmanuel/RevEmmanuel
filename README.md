@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Adeola Adekunle
-A Software Engineer Trainee at Semicolon Africa 
+A Software Engineer Intern at Semicolon Africa 
 __________________________________________________________________________________________________________________________________________________________
 
-🌱 I’m currently learning:\
+🌱 I am proficient in:\
 \
-`Java` `Python` `HTML and CSS` `Javascript` `React` `MySQL` and `Data Science`\
+`Java` `Python` `AWS` `HTML and CSS` `Javascript` `React` `Typescript` `SCSS` `Tailwind` `MySQL` and `Data Science`\
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,postgresql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,aws,html,css,js,react,typescript,scss,tailwind,mysql,postgresql,postman)](https://skillicons.dev)
 
 
-- I am also learning SpringBoot and Django frameworks, React and Node.js
+- I also work with SpringBoot and Django frameworks, and React.
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
  
@@ -24,11 +24,8 @@ ________________________________________________________________________________
  - Instagram: [@deolaaxo](https://www.instagram.com/deolaaxo/)
  - E-mail address: [adeolaae1@gmail.com](adeolaae1@gmail.com)
 
- 
- ![Adeola Emmanuel's Github stats](https://github-readme-stats.vercel.app/api?username=RevEmmanuel&theme=highcontrast&show_icons=true&count_private=true)
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevEmmanuel&layout=compact)
- ![Adeola's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RevEmmanuel&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
- 
+ ![Adeola Emmanuel's Github stats](https://github-readme-stats.vercel.app/api?username=RevEmmanuel&theme=highcontrast&show_icons=true&count_private=true&bg_color=00008B&title_color=ADD8E6&icon_color=ADD8E6&text_color=FFFFFF)
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevEmmanuel&layout=compact&langs_count=6&theme=dark&bg_color=00008B&title_color=ADD8E6&text_color=FFFFFF&card_width=300)
 <!---
 RevEmmanuel/RevEmmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
