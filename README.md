@@ -4,12 +4,14 @@ ________________________________________________________________________________
 
 🌱 I am proficient in:\
 \
-`Java` `Python` `AWS` `HTML and CSS` `Javascript` `React` `Typescript` `SCSS` `Tailwind` `MySQL` and `Data Science`\
+`Java` `Python` `Dart` `AWS` `HTML and CSS` `Javascript` `MySQL` and `PostgreSQL`\
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,aws,html,css,js,react,typescript,scss,tailwind,mysql,postgresql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,dart,aws,html,css,js,mysql,postgresql,postman)](https://skillicons.dev)
 
 
-- I also work with SpringBoot and Django frameworks, and React.
+- I also work with SpringBoot and Django frameworks, Flutter and React. \
+\
+[![My Skills](https://skillicons.dev/icons?i=spring,django,flutter,react)](https://skillicons.dev)
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
  
@@ -19,7 +21,7 @@ ________________________________________________________________________________
  [![trophy](https://github-profile-trophy.vercel.app/?username=RevEmmanuel&theme=nord)](https://github.com/RevEmmanuel/github-profile-trophy)
  __________________________________________________________________________________________________________________________________________________________
  📫 How to reach me:
- - LinkedIn: [Adeola Adekunle](www.linkedin.com/in/adeola-adekunle-emmanuel)
+ - LinkedIn: [Adeola Adekunle](https://linkedin.com/in/adeola-adekunle-emmanuel)
  - Twitter: [@Adeola_Ade1](https://twitter.com/Adeola_Ade1)
  - Instagram: [@deolaaxo](https://www.instagram.com/deolaaxo/)
  - E-mail address: [adeolaae1@gmail.com](adeolaae1@gmail.com)
