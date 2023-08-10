@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Adeola Adekunle
-A Software Engineer Intern at Semicolon Africa 
+A Software Engineering Intern at Crosspoint Finance
 __________________________________________________________________________________________________________________________________________________________
 
 🌱 I am proficient in:\
