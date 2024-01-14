@@ -25,6 +25,9 @@ ________________________________________________________________________________
  - Twitter: [@Adeola_Ade1](https://twitter.com/Adeola_Ade1)
  - Instagram: [@deolaaxo](https://www.instagram.com/deolaaxo/)
  - E-mail address: [adeolaae1@gmail.com](adeolaae1@gmail.com)
+   
+ -  [My Resume](https://docs.google.com/document/d/1dIAvaRq9tLtqTifmG_aiPmmPmxEDqOD3ZgPGScanaVk/edit?usp=sharing)
+ -  [My Portfolio](https://docs.google.com/document/d/1SdyO5W8dD08KvJvuhlOSzpwd5rnZxbuYBZtfZ3f3kHA/edit?usp=sharing)
 
  ![Adeola Emmanuel's Github stats](https://github-readme-stats.vercel.app/api?username=RevEmmanuel&theme=highcontrast&show_icons=true&count_private=true&bg_color=00008B&title_color=ADD8E6&icon_color=ADD8E6&text_color=FFFFFF)
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevEmmanuel&layout=compact&langs_count=6&theme=dark&bg_color=00008B&title_color=ADD8E6&text_color=FFFFFF&card_width=300)
