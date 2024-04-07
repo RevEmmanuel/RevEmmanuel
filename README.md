@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Adeola Adekunle
-A Software Engineering Intern at Crosspoint Finance
+A Software Engineer!
 __________________________________________________________________________________________________________________________________________________________
 
 🌱 I am proficient in:\
