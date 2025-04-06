@@ -6,12 +6,12 @@ ________________________________________________________________________________
 \
 `Java` `Python` `AWS` `HTML and CSS` `Javascript` `MySQL` and `PostgreSQL`\
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,aws,html,css,js,mysql,postgresql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,aws,html,css,js,sql,postman)](https://skillicons.dev)
 
 
 - I also work with SpringBoot and NodeJs frameworks, and React. \
 \
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,flutter,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,react)](https://skillicons.dev)
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
  
