@@ -4,21 +4,18 @@ ________________________________________________________________________________
 
 🌱 I am proficient in:\
 \
-`Java` `Python` `Dart` `AWS` `HTML and CSS` `Javascript` `MySQL` and `PostgreSQL`\
+`Java` `Python` `AWS` `HTML and CSS` `Javascript` `MySQL` and `PostgreSQL`\
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,dart,aws,html,css,js,mysql,postgresql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,aws,html,css,js,mysql,postgresql,postman)](https://skillicons.dev)
 
 
-- I also work with SpringBoot and Django frameworks, Flutter and React. \
+- I also work with SpringBoot and NodeJs frameworks, and React. \
 \
-[![My Skills](https://skillicons.dev/icons?i=spring,django,flutter,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,flutter,react)](https://skillicons.dev)
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
- Trophies:\
- \
- [![trophy](https://github-profile-trophy.vercel.app/?username=RevEmmanuel&theme=nord)](https://github.com/RevEmmanuel/github-profile-trophy)
  __________________________________________________________________________________________________________________________________________________________
  📫 How to reach me:
  - LinkedIn: [Adeola Adekunle](https://linkedin.com/in/adeola-adekunle-emmanuel)
